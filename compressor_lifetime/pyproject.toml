@@ -1,0 +1,12 @@
+[project]
+name = "compressor"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.8"
+dependencies = [
+    "nidaqmx>=1.0.2",
+    "nuitka>=2.8.9",
+    "pyqt6>=6.7.1",
+    "pyqtgraph>=0.13.3",
+]
