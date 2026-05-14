@@ -90,8 +90,8 @@ compressor_lifetime/
 
 ## 作者
 
-**Zhang Zhelei** -- Fresenius Medical Care / VTC
+**Zhang Zhelei** -- Michelin Zhang
 
 ## 许可
 
-Copyright (C) 2025 Fresenius Medical Care. All Rights Reserved.
+**Zhang Zhelei** -- Michelin Zhang
